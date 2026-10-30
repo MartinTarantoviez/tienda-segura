@@ -1,24 +1,25 @@
-  {
+{
     "name": "tienda-segura",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "node --test"
+        "test": "node --test"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/MartinTarantoviez/tienda-segura.git"
+        "type": "git",
+        "url": "git+https://github.com/MartinTarantoviez/tienda-segura.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "type": "commonjs",
     "bugs": {
-      "url": "https://github.com/MartinTarantoviez/tienda-segura/issues"
+        "url": "https://github.com/MartinTarantoviez/tienda-segura/issues"
     },
     "homepage": "https://github.com/MartinTarantoviez/tienda-segura#readme",
     "dependencies": {
-      "express": "^5.3.0"
+        "express": "^5.3.0",
+        "lodash": "^4.17.15"
     }
-  }
+}
